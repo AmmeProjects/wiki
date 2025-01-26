@@ -37,6 +37,10 @@ extra:
       link: https://github.com/AmmeProjects/wiki
     - icon: material/web
       link: https://amme.com.pt
+    - icon: simple/facebook
+      link: https://www.facebook.com/ammeportugal
+    - icon: material/email
+      link: mailto:geral@amme.com.pt
 
 nav:
   - Início: index.md
@@ -50,6 +54,7 @@ nav:
       - Disparidade de Preços: o-feio/disparidade-precos.md
   - Soluções:
       - Introdução: solucoes/introducao.md
+      - Aumentar o Investimento: solucoes/investimento-infraestrutura.md
   - Recursos: recursos.md
   - Sobre: sobre.md
 
