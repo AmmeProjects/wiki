@@ -48,10 +48,13 @@ nav:
       - Introdução: o-bom/introducao.md
   - O Mau:
       - Introdução: o-mau/introducao.md
+      - Complexidade do Pagamento com CEME: o-mau/complexidade-comum.md
+      - Proteccionismo em Portugal: o-mau/proteccionismo-portugal.md
   - O Feio:
       - Introdução: o-feio/introducao.md
       - Falta de Investimento: o-feio/infraestrutura-limitada.md
       - Disparidade de Preços: o-feio/disparidade-precos.md
+      - Opinião Pública: o-feio/opiniao-publica.md
   - Soluções:
       - Introdução: solucoes/introducao.md
       - Aumentar o Investimento: solucoes/investimento-infraestrutura.md

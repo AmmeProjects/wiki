@@ -11,6 +11,7 @@ Aceitamos contribuições de todos os interessados em mobilidade elétrica. Para
 3. Submeta um pedido de pull request.
 
 ## Licença
-Esta wiki está licenciado sob [MIT License](https://opensource.org/licenses/MIT).
+
+Esta wiki está licenciada sob a [licença MIT](https://opensource.org/licenses/MIT).
 
 [Voltar à Página Inicial](index.md)

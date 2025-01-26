@@ -10,7 +10,7 @@ Esta secção apresenta ideias e recomendações para abordar os desafios e cont
 
 ## Conteúdo
 
-- [Investimento em Infraestrutura](falta-infraestrutura.md)
+- [Investimento em Infraestrutura](./investimento-infraestrutura.md)
 
 
 [Voltar à Página Inicial](../index.md)

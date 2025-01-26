@@ -13,3 +13,9 @@
 *[AFIR]: Alternative Fuels Infrastructure Regulation (Regulamento da Infraestrutura de Combustíveis Alternativos)
 *[AMME]: Associação para a Modernização da Mobilidade Elétrica
 *[UVE]: Associação de Utilizadores de Veículos Elétricos
+*[DPC]: Detentor de Posto de Carregamento
+*[e-roaming]: Sistema de itinerância de carregamento
+*[OCPP]: Open Charge Point Protocol (Protocolo Aberto de Comunicacão com Postos de Carregamento)
+*[RESP]: Rede Elétrica de Serviço Público
+*[PCUR]: Posto de Carregamento de Ultra-Rápido
+*[AdC]: Autoridade da Concorrência

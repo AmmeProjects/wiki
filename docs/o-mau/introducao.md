@@ -1,28 +1,32 @@
 # O Mau
 
+
 Esta secção discute os desafios e limitações do regulamento da mobilidade elétrica em Portugal.
+Embora tecnicamente seja possível resolver alguns problemas, a dificuldade é a de encontrar um equilíbrio entre os interesses dos diferentes agentes do mercado e os objetivos de política pública.
 
-!!! warning "Em Desenvolvimento"
-    Esta página está em desenvolvimento.
+Apontamos os seguintes problemas no RME em Portugal:
 
-## O Método de Pagamento Comum é Complexo
-
-O RME impõe a utilização de um método de pagamento comum, o cartão/app CEME, que é complexo e leva o utilizador a pagar mais do que o necessário.
-
-
-
-## Proteccionismo no Mercado Português
-
-O mercado português de mobilidade elétrica é um dos mais protecionistas da Europa, com a presença de agentes regulados que não existem noutros mercados. A presença destes agentes é justificada pela necessidade de garantir a interoperabilidade da rede de carregamento, mas a sua existência tem impactos negativos no mercado.
-
-- Um OPC europeu que queira entrar no mercado português tem de se submeter a um processo de registo e certificação que pode ser moroso e dispendioso. Frequentemente, a solução passa por estabelecer parcerias com OPCs locais, o que pode limitar a concorrência e a inovação no mercado.
-
-- Um eMSP europeu que queira operar em Portugal tem de obter uma licença de CEME e entrar no mercado de revenda de energia, ou estabelecer uma parceria com um CEME local. Esta exigência pode limitar a entrada de novos players no mercado e dificultar a expansão de operadores já estabelecidos noutros países.
+1. Não é intuitivo para os utilizadores.
+2. [Complexidade elevada associada ao método de pagamento comum](complexidade-comum.md).
+3. [O proteccionismo no mercado português que atrasa investimentos estrangeiros e abre riscos legais](proteccionismo-portugal.md).
 
 
+## Mercado Pouco Intuitivo para os Utilizadores
+
+!!! warning "Em Construção"
+    Esta secção está em construção. Volte mais tarde para ver o conteúdo atualizado.
 
 
+Ideias gerais:
 
+- O método base de faturação é OPC + CEME.
+- O ad-hoc direto é OPC + CEME do OPC + transação bancária.
+- A tarifa ad-hoc não está relacionada com a tarifa do OPC.
 
-[Voltar à Página Inicial](../index.md)
+O que seria mais intuitivo para os utilizadores:
+
+- O método base de faturação é OPC apenas.
+- O pagamento com CEME (roaming com energia) é uma opção de pagamento de conveniência, mais cara.
+- Tanto o CEME como o OPC podem ter serviços de fidelização ou vendas cruzadas, e poupar na tarifa OPC.
+
 
