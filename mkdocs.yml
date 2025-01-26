@@ -1,0 +1,73 @@
+site_name: RJME - O Bom, o Mau e o Feio
+theme:
+  name: material
+  language: pt
+  palette: 
+    # Light Mode
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Light mode
+      primary: blue
+      accent: deep orange
+
+    # Dark Mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Dark mode
+      primary: blue
+      accent: deep purple
+
+  features:
+  - navigation.tabs
+  - navigation.footer
+  - navigation.indexes
+  logo: assets/icon.jpg
+  favicon: assets/icon.jpg
+  custom_dir: docs/css
+
+extra_css:
+  - css/custom.css
+
+copyright: Copyright &copy; 2025 AMME
+extra:
+  social:
+    - icon: simple/github
+      link: https://github.com/AmmeProjects/wiki
+    - icon: material/web
+      link: https://amme.com.pt
+
+nav:
+  - Início: index.md
+  - O Bom:
+      - Introdução: o-bom/introducao.md
+  - O Mau:
+      - Introdução: o-mau/introducao.md
+  - O Feio:
+      - Introdução: o-feio/introducao.md
+      - Falta de Investimento: o-feio/infraestrutura-limitada.md
+      - Disparidade de Preços: o-feio/disparidade-precos.md
+  - Soluções:
+      - Introdução: solucoes/introducao.md
+  - Recursos: recursos.md
+  - Sobre: sobre.md
+
+markdown_extensions:
+- pymdownx.emoji:
+    emoji_index: !!python/name:material.extensions.emoji.twemoji
+    emoji_generator: !!python/name:material.extensions.emoji.to_svg
+- pymdownx.superfences
+- pymdownx.tabbed:
+    alternate_style: true
+- admonition
+- pymdownx.details
+- attr_list
+- abbr
+- pymdownx.snippets
+- pymdownx.snippets:
+    auto_append:
+      - includes/acronimos.md
+
+watch:
+  - includes
