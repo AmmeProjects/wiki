@@ -8,7 +8,7 @@ theme:
       toggle:
         icon: material/weather-night
         name: Light mode
-      primary: blue
+      primary: black
       accent: deep orange
 
     # Dark Mode
@@ -16,19 +16,17 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Dark mode
-      primary: blue
+      primary: blue grey
       accent: deep purple
 
   features:
   - navigation.tabs
   - navigation.footer
   - navigation.indexes
+  - navigation.path
+
   logo: assets/icon.jpg
   favicon: assets/icon.jpg
-  custom_dir: docs/css
-
-extra_css:
-  - css/custom.css
 
 copyright: Copyright &copy; 2025 AMME
 extra:
@@ -45,7 +43,7 @@ extra:
 nav:
   - Introdução:
       - Introdução: index.md
-      - Resumo da Discussão: intro/resumo.md
+      - Resumo da Discussão: introducao/resumo.md
   - O Bom:
       - Introdução: o-bom/introducao.md
   - O Mau:

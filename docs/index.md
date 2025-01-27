@@ -11,7 +11,7 @@ Tentamos fornecer uma visão equilibrada e abrangente dos regulamentos de mobili
 
 
 ## Explore as Secções
-- **[Introdução](index.md)**: Apresentação resumida da discussão sobre o regulamento da mobilidade elétrica em Portugal.
+- **[Introdução](introducao/resumo.md)**: Apresentação resumida da discussão sobre o regulamento da mobilidade elétrica em Portugal.
 - **[O Bom](o-bom/introducao.md)**: Descubra os aspetos positivos do regulamento da mobilidade elétrica em Portugal.
 - **[O Mau](o-mau/introducao.md)**: Conheça os desafios e limitações.
 - **[O Feio](o-feio/introducao.md)**: Explore os aspetos controversos ou problemáticos.

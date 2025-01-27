@@ -12,6 +12,7 @@ Nos últimos anos, tem havido uma discussão crescente sobre a regulação da mo
     A definição de interoperabilidade em Portugal é a possibilidade de qualquer utilizador de veículo elétrico (VE) aceder a toda a rede de carregamento com um único cartão/app CEME.
     A separação entre o fornecimento de energia e o serviço de carregamento é obrigatória, o que significa que o OPC não é responsável pela comercialização de energia. 
 
+
 ## Argumentos a Favor
 
 * **Interoperabilidade**: A utilização de um sistema de backoffice comum (EGME) facilita a interoperabilidade entre diferentes operadores de postos de carregamento (OPCs) e comercializadores de energia (CEMEs).
