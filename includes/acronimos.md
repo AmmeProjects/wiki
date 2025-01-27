@@ -3,6 +3,7 @@
 *[CEME]: Comercializador de Energia para a Mobilidade Elétrica
 *[CEMEs]: Comercializador de Energia para a Mobilidade Elétrica
 *[OPC]: Operador de Posto de Carregamento
+*[OPCs]: Operador de Posto de Carregamento
 *[PAN]: Ponto de Acesso Nacional
 *[EGME]: Entidade Gestora da Mobilidade Elétrica
 *[eMSP]: Fornecedor de Serviços de Mobilidade Elétrica

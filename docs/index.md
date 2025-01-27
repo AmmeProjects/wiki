@@ -6,11 +6,12 @@ Tentamos fornecer uma visão equilibrada e abrangente dos regulamentos de mobili
 
 ## Princípios
 
-- **Utilizador**: As necessidades e experiências dos utilizadores de veículos elétricos são priorizadas.
+- **Utilizador Primeiro**: As necessidades e experiências dos utilizadores de veículos elétricos são priorizadas, e as políticas seguem.
 - **Pragmatismo**: Não defendemos cegamente ideais, mas sim soluções práticas e realistas que alinhem os interesses dos utilizadores e agentes de mercado. Não sacrificamos o presente em nome de uma utopia.
 
 
 ## Explore as Secções
+- **[Introdução](index.md)**: Apresentação resumida da discussão sobre o regulamento da mobilidade elétrica em Portugal.
 - **[O Bom](o-bom/introducao.md)**: Descubra os aspetos positivos do regulamento da mobilidade elétrica em Portugal.
 - **[O Mau](o-mau/introducao.md)**: Conheça os desafios e limitações.
 - **[O Feio](o-feio/introducao.md)**: Explore os aspetos controversos ou problemáticos.

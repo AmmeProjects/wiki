@@ -43,7 +43,9 @@ extra:
       link: mailto:geral@amme.com.pt
 
 nav:
-  - Início: index.md
+  - Introdução:
+      - Introdução: index.md
+      - Resumo da Discussão: intro/resumo.md
   - O Bom:
       - Introdução: o-bom/introducao.md
   - O Mau:
