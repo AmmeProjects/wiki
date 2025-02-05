@@ -1,4 +1,4 @@
-site_name: RJME - O Bom, o Mau e o Feio
+site_name: RME - O Bom, o Mau e o Feio
 theme:
   name: material
   language: pt
@@ -39,7 +39,8 @@ extra:
       link: https://www.facebook.com/ammeportugal
     - icon: material/email
       link: mailto:geral@amme.com.pt
-
+extra_css:
+  - stylesheets/extra.css
 nav:
   - Introdução:
       - Introdução: index.md
@@ -76,6 +77,11 @@ markdown_extensions:
 - pymdownx.snippets:
     auto_append:
       - includes/acronimos.md
+- pymdownx.superfences:
+    custom_fences:
+      - name: mermaid
+        class: mermaid
+        format: !!python/name:pymdownx.superfences.fence_code_format
 
 watch:
   - includes
