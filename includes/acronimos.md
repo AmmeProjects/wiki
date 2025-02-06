@@ -20,3 +20,4 @@
 *[RESP]: Rede Elétrica de Serviço Público
 *[PCUR]: Posto de Carregamento de Ultra-Rápido
 *[AdC]: Autoridade da Concorrência
+*[GEVA]: Global Electric Vehicle Alliance

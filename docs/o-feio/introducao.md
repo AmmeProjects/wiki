@@ -12,6 +12,15 @@ A melhor métrica para avaliar a disponibilidade de postos de carregamento é a 
 
 [Mais detalhes sobre políticas de desenvolvimento de infraestrutura](../solucoes/investimento-infraestrutura.md).
 
+## Opinião Pública Negativa sobre a sua Experiência com a Rede de Carregamento
+
+A experiência do utilizador com a rede de carregamento é um dos fatores mais importantes para a adesão à mobilidade elétrica. 
+A rede de carregamento em Portugal tem sido alvo de críticas por parte dos utilizadores, que se queixam da falta de postos de carregamento, da complexidade tarifária e da falta de informação sobre os preços.
+
+[Mais detalhes sobre a experiência do utilizador com a rede de carregamento](./2025-01-opiniao-publica/opiniao-publica.md).
+
+
+
 
 ## Ónus no Consumidor
 
